@@ -22,5 +22,10 @@ public class Test
 
         Person p3= new Person ("Lobo", 44);
         System.out.println (p3.getName ());
+
+
+        //Here is my change :D
+        Person p4= new Person ("Sarah mohammad", 21);
+        System.out.println (p4.getName ());
     }
 }
